@@ -1,7 +1,7 @@
 ---
 styleguide:
   version: '2021'
-  revision: '1'
+  revision: '2'
   category:
   - id: '1'
     name: Standard American Beer
@@ -738,9 +738,9 @@ styleguide:
       examples:
       - Bernard černý ležák 12°
       - Budvar tmavý ležák
-      - Herold lmavé silné pivo 13°
-      - 'Kozel Dark '
-      - Krušovice  černé
+      - Herold tmavé silné pivo 13°
+      - Kozel Dark
+      - Krušovice černé
       - Primátor dark lager
       - U Fleků Flekovský tmavý ležák 13°
       tags:
@@ -812,7 +812,7 @@ styleguide:
       - Paulaner Münchner Lager
       - Schönramer Hell
       - Spaten Münchner Hell
-      - Weihenstephaner Original Heles
+      - Weihenstephaner Original Helles
       tags:
       - standard-strength
       - pale-color
@@ -1740,7 +1740,7 @@ styleguide:
       - Devils Backbone Schwartz Bier
       - Köstritzer Schwarzbier
       - Kulmbacher Mönchshof Schwarzbier
-      - Nuezeller Original Badebier
+      - Neuzeller Original Badebier
       - pFriem Schwarzbier
       tags:
       - standard-strength
@@ -2903,7 +2903,7 @@ styleguide:
       - roasty
   - id: '14'
     name: Scottish Ale
-    notes: "There are really only three traditional beer styles broadly available
+    notes: 'There are really only three traditional beer styles broadly available
       today in Scotland: the 70/- Scottish Heavy, the 80/- Scottish Export, and the
       Strong Scotch Ale (Wee Heavy, Style 17C). The 60/- Scottish Light is rare and
       often cask-only, but it does seem to be having a bit of a renaissance currently.
@@ -2911,37 +2911,37 @@ styleguide:
       of the same names. Currently, the 60/- is similar to a dark mild, the 70/- is
       similar to an ordinary bitter, and the 80/- similar to a best or strong bitter.
       The Scottish beers have a different balance and flavor profile, but fill a similar
-      market position as those English beers.\nThe Light, Heavy, and Export beers
-      have similar flavor profiles, and are often produced through the parti-gyling
-      process. As gravity increases, so does the character of the beer. Traditional
-      ingredients were dextrinous pale ale malt, corn, dark brewing sugars, and brewers
-      caramel for coloring. Modern (post-WWII) recipes often add small amounts of
-      dark malt and lower percentages of crystal malt, along with other ingredients
-      like amber malt and wheat. Scottish brewers traditionally used single infusion
-      mashes, often with underlet mashes and multiple sparges.\nIn general, these
-      Scottish beers are weaker, sweeter, darker, lower in attenuation, and less highly
-      hopped compared to equivalent modern English beers. They are produced using
-      slightly cooler fermentation temperatures than their counterparts. Many of these
-      differences have been exaggerated in popular lore; they are noticeable, but
-      not huge, yet enough to affect the balance of the beer, and to perhaps indicate
-      a national flavor preference. The balance remains malty and somewhat sweet due
-      to higher finishing gravity, lower alcohol, and lower hopping rates. Many of
-      these divergences from English beer took place between the late 1800s and the
-      mid-1900s.\nProduction methods championed by homebrewers, such as kettle caramelization
-      or grists heavy in a variety of crystal malts, are not commonly used in traditional
-      products but can approximate those flavors when traditional ingredients aren’t
-      available. The use of peat-smoked malt is not only completely inauthentic, it
-      produces a dirty, phenolic flavor inappropriate in any of these styles. Smoked
-      versions (using any type smoke) should be entered in 32A Classic Style Smoked
-      Beer. \nThe use of ‘shilling’ (/-) designations is a Scottish curiosity. Originally
-      it referred to the price of beer in hogshead casks, which in no way could be
-      constant over time. Shillings aren’t even used a currency now in Scotland. But
-      the name stuck as a shorthand for a type of beer, even if the original meaning
-      stopped being the real price during WWI. About all it means now is that larger
-      numbers mean stronger beers, at least within the same brewery. Between the world
-      wars, some breweries used the price per pint rather than shillings (e.g., Maclay
-      6d for 60/-, 7d for 70/-, 8d for 80/-). Confusingly, during this time 90/- pale
-      ale was a low-gravity bottled beer. Curious, indeed.  "
+      market position as those English beers. The Light, Heavy, and Export beers have
+      similar flavor profiles, and are often produced through the parti-gyling process.
+      As gravity increases, so does the character of the beer. Traditional ingredients
+      were dextrinous pale ale malt, corn, dark brewing sugars, and brewers caramel
+      for coloring. Modern (post-WWII) recipes often add small amounts of dark malt
+      and lower percentages of crystal malt, along with other ingredients like amber
+      malt and wheat. Scottish brewers traditionally used single infusion mashes,
+      often with underlet mashes and multiple sparges. In general, these Scottish
+      beers are weaker, sweeter, darker, lower in attenuation, and less highly hopped
+      compared to equivalent modern English beers. They are produced using slightly
+      cooler fermentation temperatures than their counterparts. Many of these differences
+      have been exaggerated in popular lore; they are noticeable, but not huge, yet
+      enough to affect the balance of the beer, and to perhaps indicate a national
+      flavor preference. The balance remains malty and somewhat sweet due to higher
+      finishing gravity, lower alcohol, and lower hopping rates. Many of these divergences
+      from English beer took place between the late 1800s and the mid-1900s. Production
+      methods championed by homebrewers, such as kettle caramelization or grists heavy
+      in a variety of crystal malts, are not commonly used in traditional products
+      but can approximate those flavors when traditional ingredients aren’t available.
+      The use of peat-smoked malt is not only completely inauthentic, it produces
+      a dirty, phenolic flavor inappropriate in any of these styles. Smoked versions
+      (using any type smoke) should be entered in 32A Classic Style Smoked Beer. The
+      use of ‘shilling’ (/-) designations is a Scottish curiosity. Originally it referred
+      to the price of beer in hogshead casks, which in no way could be constant over
+      time. Shillings aren’t even used as a currency now in Scotland. But the name
+      stuck as a shorthand for a type of beer, even if the original meaning stopped
+      being the real price during WWI. About all it means now is that larger numbers
+      mean stronger beers, at least within the same brewery. Between the world wars,
+      some breweries used the price per pint rather than shillings (e.g., Maclay 6d
+      for 60/-, 7d for 70/-, 8d for 80/-). Confusingly, during this time 90/- pale
+      ale was a low-gravity bottled beer. Curious, indeed.'
     subcategory:
     - id: 14A
       name: Scottish Light
@@ -3888,7 +3888,10 @@ styleguide:
         earthy, tea, or marmalade-like) are common. Bitterness can be light to fairly
         strong, fading with time, so the balance can be malty to somewhat bitter.
         Stronger versions will have a little alcohol character. The finish and aftertaste
-        can be moderately dry to moderately sweet, often depending on age.
+        can be moderately dry to moderately sweet, often depending on age. Aged versions
+        may develop complex oxidative or vinous flavors at a noticeable but not prominent
+        level. Pale versions typically seem more bitter, better attenuated, and more
+        hop-forward than darker versions.
       mouthfeel: Full-bodied and chewy, with a velvety, luscious texture, declining
         with age. A smooth warmth from aged alcohol should be present, but shouldn’t
         burn. Carbonation may be low to moderate, depending on age and conditioning.
@@ -4587,7 +4590,7 @@ styleguide:
         the modern craft beer examples.
       ingredients: Pale base malt. American or English yeast with a clean or slightly
         fruity profile. Generally all-malt, but sugar additions are acceptable. Restrained
-        use of crystal malts. Often uses American or New World hops but any are varieties
+        use of crystal malts. Often uses American or New World hops but any varieties
         are acceptable; new hop varieties continue to be released and may be used
         even if they do not have the sensory profiles listed as examples.
       comparison: Stronger and more highly hopped than American Pale Ale. Compared
@@ -5755,8 +5758,7 @@ styleguide:
         Lambic sweetened with raw sugar at service time is known as Faro.
       history: Spontaneously-fermented ‘wild’ ales from the area in and around Brussels
         (also known as the Senne Valley and the Pajottenland) stem from a farmhouse
-        brewing tradition several centuries old. The number of producers is constantly
-        dwindling.
+        brewing tradition several centuries old.
       ingredients: Pilsner malt, unmalted wheat. Aged hops (3+ years) used more as
         a preservative than for bitterness. Spontaneously fermented with naturally
         occurring yeast and bacteria in well-used, neutral oak barrels.
@@ -6665,7 +6667,7 @@ styleguide:
         are sneaky, not obvious. High carbonation and attenuation helps bring out
         the many flavors and to increase the perception of a dry finish. Most traditional
         versions have at least 30 IBUs and are very dry.
-      history: Popularized by the monastery at Westmalle, first brewed in 1934.
+      history: Popularized by the monastery at Westmalle, first brewed in 1931.
       ingredients: Pilsner malt, often pale sugar adjuncts. Continental hops. Spicy-fruity
         Belgian yeast strains. Spice additions are generally not traditional, and
         if used, should be a background character only. Fairly soft water.
@@ -7562,8 +7564,8 @@ styleguide:
         pale malt flavor supports the lemony sourness with moderate fruity esters.
       aroma: A sharply sour character is dominant (moderately-high to high). Can have
         up to a moderately fruity character (often peach, apricot, lemon, or tart
-        apple). No hop aroma. Pale malt dominates, usually biscuity or crackery. Clean
-        fermentation.
+        apple). No hop aroma. Supportive pale malt, usually biscuity or crackery.
+        Clean fermentation.
       appearance: Very pale in color. Clarity ranges from clear to somewhat hazy.
         Large, dense, white head with poor retention. Effervescent.
       flavor: Clean lactic sourness dominates and can be quite strong. Some complementary,
@@ -7586,7 +7588,7 @@ styleguide:
       ingredients: Most or all of the grist is pale, Pils, or wheat malt in any combination.
         Lightly-kilned malts for more malt depth may be employed. Carapils-type malts
         can be used for body. Pale sugars can be used to increase gravity without
-        body. No lactose or maltodextrin. Maybe be produced by kettle souring, co-fermentation
+        body. No lactose or maltodextrin. May be produced by kettle souring, co-fermentation
         culture (yeast and LAB), or using specialty yeast that produce lactic acid.
         No Brett.
       comparison: Lower gravity examples can be very much like a Brett-free Berliner
@@ -8507,6 +8509,8 @@ styleguide:
         abv:
           min: '4.3'
           max: '5.5'
+      tags:
+      - south-america
     - id: X2
       name: Argentine IPA
       impression: A decidedly hoppy and bitter, refreshing and moderately strong Argentine
@@ -8570,12 +8574,16 @@ styleguide:
       examples:
       - Antares Ipa Argenta
       - Kerze Ipa Argenta.
+      tags:
+      - south-america
     - id: X3
       name: Italian Grape Ale
+      impression: A sometimes refreshing, sometimes more complex Italian ale characterized
+        by different varieties of grapes.
       aroma: Aromatic characteristics of a particular grape have to be noticeable
         but do should not overpower the other aromas. The grape character should be
         pleasant and should not have defects such as oxidation. Malt character is
-        usually restrained and should not exhibit a roasty, stout like, profile. Hop
+        usually restrained and should not exhibit a roasty, stout-like profile. Hop
         aroma (floral, earthy) can range from medium-low to absent. Some examples
         can have a low wild character described as barnyard, earthy, goaty but should
         not be as intense as in a lambic/fruit lambic. No diacetyl.
@@ -8600,8 +8608,6 @@ styleguide:
         generally from low to medium and some acidity can contribute to increase the
         perception of dryness. Strong examples can show some warming but without being
         hot or solventy.
-      impression: A sometimes refreshing, sometimes more complex Italian ale characterized
-        by different varieties of grapes.
       history: Initially brewed at Birrificio Montegioco and Birrificio Barley in
         2006-2007, Italian Grape Ale (IGA) is now produced by many Italian craft breweries.
         It’s also becoming popular in US and other wine countries. It represents a
@@ -8615,7 +8621,7 @@ styleguide:
         during boiling or more commonly during primary/secondary fermentation. Yeast
         can show a neutral character (more common) or a fruity/spicy profile (English
         and Belgian strains). Wine yeast can be used also in conjunction with other
-        yeasts. Continental hop varieties, mainly German or English, are used in low
+        yeasts. Old World hop varieties, mainly German or English, are used in low
         quantities in order not to excessively characterize the beer.'
       comparison: Similar to Fruit Beer but evolved as a standalone style due to the
         abundance of grapes varieties in Italy.
@@ -8717,6 +8723,7 @@ styleguide:
       - fruit
       - sour
       - specialty-beer
+      - south-america
     - id: X5
       name: New Zealand Pilsner
       impression: A pale, dry, golden-colored, cleanly-fermented beer showcasing the
@@ -8753,7 +8760,7 @@ styleguide:
       history: Largely defined by the original created at Emerson’s Brewery in the
         mid-1990s, New Zealand Pilsner has expanded in character as the varieties
         of New Zealand hops have expanded in number and popularity.
-      ingredients: New Zealand hop varieties, such as Motueka, Riwake, Nelson Sauvin,
+      ingredients: New Zealand hop varieties, such as Motueka, Riwaka, Nelson Sauvin,
         often with Pacific Jade for bittering. Other new world varieties from Australia
         or the US may be used, if they have similar characteristics. Pale base malts,
         Pilsner or pale types, perhaps with a small percentage of wheat malt. Fairly
