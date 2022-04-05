@@ -43,7 +43,7 @@
               }
             },
             "examples": [
-              " Bud Light",
+              "Bud Light",
               "Coors Light",
               "Grain Belt Premium Light American Lager",
               "Michelob Light",
@@ -51,7 +51,7 @@
               "Old Milwaukee Light"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -96,7 +96,7 @@
               }
             },
             "examples": [
-              " Budweiser",
+              "Budweiser",
               "Coors Original",
               "Grain Belt Premium American Lager",
               "Miller High Life",
@@ -105,7 +105,7 @@
               "Special Export"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -150,7 +150,7 @@
               }
             },
             "examples": [
-              " Genesee Cream Ale",
+              "Genesee Cream Ale",
               "Liebotschaner Cream Ale",
               "Kiwanda Pre-Prohibition Cream Ale",
               "Little Kings Cream Ale",
@@ -158,7 +158,7 @@
               "Sun King Sunlight Cream Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "any-fermentation",
               "north-america",
@@ -202,14 +202,14 @@
               }
             },
             "examples": [
-              " Bell’s Oberon",
+              "Bell’s Oberon",
               "Boulevard Unfiltered Wheat Beer",
               "GoodLife Sweet As! Pacific Ale",
               "Goose Island 312 Urban Wheat Ale",
               "Widmer Hefeweizen"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "any-fermentation",
               "north-america",
@@ -261,7 +261,7 @@
               }
             },
             "examples": [
-              " Asahi Super Dry",
+              "Asahi Super Dry",
               "Birra Moretti",
               "Corona Extra",
               "Devils Backbone Gold Leaf Lager",
@@ -271,7 +271,7 @@
               "Singha"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -315,7 +315,7 @@
               }
             },
             "examples": [
-              " Abita Amber Lager",
+              "Abita Amber Lager",
               "Brooklyn Lager",
               "Capital Wisconsin Amber Lager",
               "Dos Equis Amber",
@@ -323,7 +323,7 @@
               "Yuengling Lager"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "bottom-fermented",
               "lagered",
@@ -367,7 +367,7 @@
               }
             },
             "examples": [
-              " Baltika #4 Original",
+              "Baltika #4 Original",
               "Dixie Blackened Voodoo",
               "Heineken Dark Lager",
               "Saint Pauli Girl Special Dark",
@@ -375,7 +375,7 @@
               "Shiner Bock"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "bottom-fermented",
               "lagered",
@@ -426,7 +426,7 @@
               }
             },
             "examples": [
-              " Bernard světlé pivo 10",
+              "Bernard světlé pivo 10",
               "Březňák světlé výčepní pivo",
               "Notch Session Pils",
               "Primátor Antonín světlé výčepní",
@@ -434,7 +434,7 @@
               "Únětické pivo 10°"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -480,7 +480,7 @@
               }
             },
             "examples": [
-              " Bernard světlé ležák 12°",
+              "Bernard světlé ležák 12°",
               "Budvar 33 světlý ležák",
               "Pilsner Urquell",
               "Pivovar Jihlava Ježek 11%",
@@ -489,7 +489,7 @@
               "Únětická pivo 12°"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -535,7 +535,7 @@
               }
             },
             "examples": [
-              " Bernard Jantarový ležák 12°",
+              "Bernard Jantarový ležák 12°",
               "Gambrinus Polotmavá 12°",
               "Kozel Semi-Dark",
               "Lobkowicz Démon 13",
@@ -543,7 +543,7 @@
               "Strakonický Dudák Klostermann polotmavý ležák"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "bottom-fermented",
               "lagered",
@@ -588,7 +588,7 @@
               }
             },
             "examples": [
-              " Bernard černý ležák 12°",
+              "Bernard černý ležák 12°",
               "Budvar tmavý ležák",
               "Herold lmavé silné pivo 13°",
               "Kozel Dark ",
@@ -597,7 +597,7 @@
               "U Fleků Flekovský tmavý ležák 13°"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "bottom-fermented",
               "lagered",
@@ -649,7 +649,7 @@
               }
             },
             "examples": [
-              " Augustiner Lagerbier Hell",
+              "Augustiner Lagerbier Hell",
               "Hacker-Pschorr Münchner Gold",
               "Löwenbraü Original",
               "Paulaner Münchner Lager",
@@ -658,7 +658,7 @@
               "Weihenstephaner Original Heles"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -703,7 +703,7 @@
               }
             },
             "examples": [
-              " Augustiner Oktoberfest",
+              "Augustiner Oktoberfest",
               "Hacker-Pschorr Superior Festbier",
               "Hofbräu Oktoberfestbier",
               "Löwenbräu Oktoberfestbier",
@@ -711,7 +711,7 @@
               "Weihenstephaner Festbier"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -756,7 +756,7 @@
               }
             },
             "examples": [
-              " Altenmünster Maibock",
+              "Altenmünster Maibock",
               "Ayinger Maibock",
               "Chuckanut Maibock",
               "Einbecker Mai-Ur-Bock",
@@ -764,7 +764,7 @@
               "Mahr’s Heller Bock"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -816,7 +816,7 @@
               }
             },
             "examples": [
-              " Autenrieder Schlossbräu Leicht",
+              "Autenrieder Schlossbräu Leicht",
               "Greif Bräu Leicht",
               "Hohenthanner Tannen Hell Leicht",
               "Müllerbrau Heimer Leicht",
@@ -824,7 +824,7 @@
               "Waldhaus Sommer Bier"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -870,7 +870,7 @@
               }
             },
             "examples": [
-              " Früh Kölsch",
+              "Früh Kölsch",
               "Gaffel Kölsch",
               "Mühlen Kölsch",
               "Päffgen Kolsch",
@@ -879,7 +879,7 @@
               "Sünner Kölsch"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "lagered",
@@ -924,7 +924,7 @@
               }
             },
             "examples": [
-              " Chuckanut Export Dortmunder Lager",
+              "Chuckanut Export Dortmunder Lager",
               "DAB Dortmunder Export",
               "Dortmunder Kronen",
               "Landshuter Edel Hell",
@@ -932,7 +932,7 @@
               "Schönramer Gold"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -977,7 +977,7 @@
               }
             },
             "examples": [
-              " ABK Pils Anno 1907",
+              "ABK Pils Anno 1907",
               "Jever Pilsener",
               "König Pilsener",
               "Paulaner Pils",
@@ -987,7 +987,7 @@
               "Trumer Pils"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -1040,14 +1040,14 @@
               }
             },
             "examples": [
-              " Hacker-Pschorr Oktoberfest Märzen",
+              "Hacker-Pschorr Oktoberfest Märzen",
               "Hofmark Märzen",
               "Paulaner Oktoberfest",
               "Saalfelder Ur-Saalfelder",
               "Weltenburger Kloster Anno 1050"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "bottom-fermented",
               "lagered",
@@ -1092,14 +1092,14 @@
               }
             },
             "examples": [
-              " Cervejaria Bamberg Rauchbier",
+              "Cervejaria Bamberg Rauchbier",
               "Göller Rauchbier",
               "Rittmayer Rauchbier",
               "Schlenkerla Rauchbier Märzen",
               "Spezial Rauchbier Märzen"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "bottom-fermented",
               "lagered",
@@ -1145,7 +1145,7 @@
               }
             },
             "examples": [
-              " Aass Bock",
+              "Aass Bock",
               "Einbecker Ur-Bock Dunkel",
               "Kneitinger Bock",
               "Lindeboom Bock",
@@ -1153,7 +1153,7 @@
               "Penn Brewery St. Nikolaus Bock"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "bottom-fermented",
               "lagered",
@@ -1205,7 +1205,7 @@
               }
             },
             "examples": [
-              " Chuckanut Vienna Lager",
+              "Chuckanut Vienna Lager",
               "Devils Backbone Vienna Lager",
               "Figueroa Mountain Red Lager",
               "Heavy Seas Cutlass",
@@ -1214,7 +1214,7 @@
               "Theresianer Vienna"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "bottom-fermented",
               "lagered",
@@ -1259,7 +1259,7 @@
               }
             },
             "examples": [
-              " Bolten Alt",
+              "Bolten Alt",
               "Diebels Alt",
               "Füchschen Alt",
               "Original Schlüssel Alt",
@@ -1268,7 +1268,7 @@
               "Uerige Altbier"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "lagered",
@@ -1320,7 +1320,7 @@
               }
             },
             "examples": [
-              " Ayinger Altbairisch Dunkel",
+              "Ayinger Altbairisch Dunkel",
               "Ettaler Kloster-Dunkel",
               "Eittinger Urtyp Dunkel",
               "Hacker-Pschorr Münchner Dunkel",
@@ -1328,7 +1328,7 @@
               "Weltenburger Kloster Barock-Dunkel"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "bottom-fermented",
               "lagered",
@@ -1373,7 +1373,7 @@
               }
             },
             "examples": [
-              " Chuckanut Schwarz Lager",
+              "Chuckanut Schwarz Lager",
               "Devils Backbone Schwartz Bier",
               "Köstritzer Schwarzbier",
               "Kulmbacher Mönchshof Schwarzbier",
@@ -1381,7 +1381,7 @@
               "pFriem Schwarzbier"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "bottom-fermented",
               "lagered",
@@ -1433,21 +1433,22 @@
                 "max": "10.0"
               }
             },
-            "examples": [
-              " Dark Versions – Andechs Doppelbock Dunkel",
-              "Ayinger Celebrator",
-              "Paulaner Salvator",
-              "Spaten Optimator",
-              "Tröegs Troegenator",
-              "Weihenstephaner Korbinian; Pale Versions – Eggenberg Urbock 23º",
-              "Meinel Doppelbock Hell",
-              "Plank Bavarian Heller Doppelbock",
-              "Riegele Auris 19",
-              "Schönbuch Doppelbock Hell",
-              "Staffelberg-Bräu Zwergator"
+            "examples": [ 
+              "Andechs Doppelbock Dunkel (dark)",
+              "Ayinger Celebrator (dark)",
+              "Paulaner Salvator (dark)",
+              "Spaten Optimator (dark)",
+              "Tröegs Troegenator (dark)",
+              "Weihenstephaner Korbinian (dark)",
+              "Eggenberg Urbock 23º (pale)",
+              "Meinel Doppelbock Hell (pale)",
+              "Plank Bavarian Heller Doppelbock (pale)",
+              "Riegele Auris 19 (pale)",
+              "Schönbuch Doppelbock Hell (pale)",
+              "Staffelberg-Bräu Zwergator (pale)"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "pale-color",
               "bottom-fermented",
@@ -1493,10 +1494,10 @@
               }
             },
             "examples": [
-              " Kulmbacher Eisbock"
+              "Kulmbacher Eisbock"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "amber-color",
               "bottom-fermented",
               "lagered",
@@ -1541,7 +1542,7 @@
               }
             },
             "examples": [
-              " Aldaris Mežpils Porteris",
+              "Aldaris Mežpils Porteris",
               "Baltika 6 Porter",
               "Devils Backbone Danzig",
               "Okocim Mistrzowski Porter",
@@ -1549,7 +1550,7 @@
               "Zywiec Porter"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "dark-color",
               "any-fermentation",
               "lagered",
@@ -1602,7 +1603,7 @@
               }
             },
             "examples": [
-              " Ayinger Bräuweisse",
+              "Ayinger Bräuweisse",
               "Distelhäuser Hell Weizen",
               "Hacker-Pschorr Hefeweißbier",
               "Hofbräuhaus Münchner Weisse",
@@ -1610,7 +1611,7 @@
               "Weihenstephaner Hefeweißbier"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "central-europe",
@@ -1654,7 +1655,7 @@
               }
             },
             "examples": [
-              " Ayinger Urweisse",
+              "Ayinger Urweisse",
               "Ettaler Benediktiner Weißbier Dunkel",
               "Franziskaner Hefe-Weisse Dunkel",
               "Hirsch Dunkel Weisse",
@@ -1662,7 +1663,7 @@
               "Weihenstephaner Hefeweißbier Dunkel"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "central-europe",
@@ -1707,7 +1708,7 @@
               }
             },
             "examples": [
-              " Dark – Plank Bavarian Dunkler Weizenbock",
+              "Dark – Plank Bavarian Dunkler Weizenbock",
               "Penn Weizenbock",
               "Schalchner Weisser Bock",
               "Schneider Weisse Aventinus; Pale –Ayinger Weizenbock",
@@ -1716,7 +1717,7 @@
               "Weihenstephaner Vitus"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "pale-color",
               "top-fermented",
@@ -1768,7 +1769,7 @@
               }
             },
             "examples": [
-              " Bateman’s XB",
+              "Bateman’s XB",
               "Brains Bitter",
               "Brakspear Gravity",
               "Fuller's Chiswick Bitter",
@@ -1776,7 +1777,7 @@
               "Tetley’s Original Bitter"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -1820,7 +1821,7 @@
               }
             },
             "examples": [
-              " Adnams Southwold Bitter",
+              "Adnams Southwold Bitter",
               "Fuller's London Pride",
               "Harvey’s Sussex Best Bitter",
               "Salopian Darwin’s Origin",
@@ -1828,7 +1829,7 @@
               "Timothy Taylor Landlord"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -1872,7 +1873,7 @@
               }
             },
             "examples": [
-              " Bass Ale",
+              "Bass Ale",
               "Bateman’s Triple XB",
               "Robinsons Trooper",
               "Samuel Smith’s Organic Pale Ale",
@@ -1880,7 +1881,7 @@
               "Summit Extra Pale Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -1931,7 +1932,7 @@
               }
             },
             "examples": [
-              " Adnams Explorer",
+              "Adnams Explorer",
               "Crouch Vale Brewers Gold",
               "Golden Hill Exmoor Gold",
               "Hop Back Summer Lightning",
@@ -1939,7 +1940,7 @@
               "Spitfire Golden Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "british-isles",
@@ -1984,10 +1985,10 @@
               }
             },
             "examples": [
-              " Coopers Sparkling Ale"
+              "Coopers Sparkling Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "pacific",
@@ -2031,7 +2032,7 @@
               }
             },
             "examples": [
-              " Berkshire Lost Sailor IPA",
+              "Berkshire Lost Sailor IPA",
               "Fuller's Bengal Lancer",
               "Marston’s Old Empire IPA",
               "Meantime London IPA",
@@ -2039,7 +2040,7 @@
               "Worthington White Shield"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "british-isles",
@@ -2091,7 +2092,7 @@
               }
             },
             "examples": [
-              " Brain’s Dark",
+              "Brain’s Dark",
               "Greene King XX Mild",
               "Hobson’s Champion Mild",
               "Mighty Oak Oscar Wilde",
@@ -2099,7 +2100,7 @@
               "Theakston Traditional Mild"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2143,7 +2144,7 @@
               }
             },
             "examples": [
-              " AleSmith Nut Brown Ale",
+              "AleSmith Nut Brown Ale",
               "Cigar City Maduro Brown Ale",
               "Maxim Double Maxim",
               "Newcastle Brown Ale",
@@ -2151,7 +2152,7 @@
               "Samuel Smith’s Nut Brown Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2195,7 +2196,7 @@
               }
             },
             "examples": [
-              " Bateman’s Salem Porter",
+              "Bateman’s Salem Porter",
               "Burton Bridge Burton Porter",
               "Fuller's London Porter",
               "Nethergate Old Growler Porter",
@@ -2203,7 +2204,7 @@
               "Samuel Smith Taddy Porter"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2255,11 +2256,11 @@
               }
             },
             "examples": [
-              " Belhaven Best",
+              "Belhaven Best",
               "McEwan's 60/-"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2303,11 +2304,11 @@
               }
             },
             "examples": [
-              " McEwan's 70/-",
+              "McEwan's 70/-",
               "Orkney Raven Ale"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2351,7 +2352,7 @@
               }
             },
             "examples": [
-              " Belhaven Scottish Ale",
+              "Belhaven Scottish Ale",
               "Broughton Wee Jock 80 Shilling",
               "Caledonian Edinburgh Castle",
               "McEwan’s 80/-",
@@ -2359,7 +2360,7 @@
               "Traquair Bear Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2410,7 +2411,7 @@
               }
             },
             "examples": [
-              " Franciscan Well Rebel Red",
+              "Franciscan Well Rebel Red",
               "Kilkenny Irish Beer",
               "Murphy’s Irish Red",
               "O’Hara’s Irish Red Ale",
@@ -2418,7 +2419,7 @@
               "Smithwick’s Irish Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2462,7 +2463,7 @@
               }
             },
             "examples": [
-              " Beamish Irish Stout",
+              "Beamish Irish Stout",
               "Belhaven Black Stout",
               "Guinness Draught",
               "Murphy's Irish Stout",
@@ -2470,7 +2471,7 @@
               "Porterhouse Irish Stout"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2515,13 +2516,13 @@
               }
             },
             "examples": [
-              " Guinness Extra Stout",
+              "Guinness Extra Stout",
               "O’Hara’s Leann Folláin",
               "Porterhouse XXXX",
               "Sheaf Stout"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2573,7 +2574,7 @@
               }
             },
             "examples": [
-              " Bristol Beer Factory Milk Stout",
+              "Bristol Beer Factory Milk Stout",
               "Firestone Nitro Merlin Milk Stout",
               "Left Hand Milk Stout",
               "Lancaster Milk Stout",
@@ -2581,7 +2582,7 @@
               "Marston’s Pearl Jet Stout"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2627,7 +2628,7 @@
               }
             },
             "examples": [
-              " Anderson Valley Barney Flats Oatmeal Stout",
+              "Anderson Valley Barney Flats Oatmeal Stout",
               "Broughton Stout Jock",
               "St-Ambroise Oatmeal Stout",
               "Samuel Smith Oatmeal Stout",
@@ -2635,7 +2636,7 @@
               "Young's London Stout"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2680,7 +2681,7 @@
               }
             },
             "examples": [
-              " ABC Extra Stout",
+              "ABC Extra Stout",
               "Bahamian Strong Back Stout",
               "Dragon Stout",
               "Jamaica Stout",
@@ -2688,7 +2689,7 @@
               "Royal Extra Stout"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2734,7 +2735,7 @@
               }
             },
             "examples": [
-              " Coopers Best Extra Stout",
+              "Coopers Best Extra Stout",
               "Guinness Foreign Extra Stout",
               "The Kernel Export Stout London 1890",
               "La Cumbre Malpais Stout",
@@ -2742,7 +2743,7 @@
               "Ridgeway Foreign Export Stout"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -2794,7 +2795,7 @@
               }
             },
             "examples": [
-              " Fuller’s 1845",
+              "Fuller’s 1845",
               "Harvey’s Elizabethan Ale",
               "J.W. Lees Moonraker",
               "McEwan’s Champion",
@@ -2802,7 +2803,7 @@
               "Shepherd Neame 1698"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2846,14 +2847,14 @@
               }
             },
             "examples": [
-              " Avery Old Jubilation",
+              "Avery Old Jubilation",
               "Berlina Old Ale",
               "Greene King Strong Suffolk Ale",
               "Marston Owd Roger",
               "Theakston Old Peculier"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2898,7 +2899,7 @@
               }
             },
             "examples": [
-              " Belhaven Wee Heavy",
+              "Belhaven Wee Heavy",
               "Broughton Old Jock",
               "McEwan’s Scotch Ale",
               "Orkney Skull Splitter",
@@ -2906,7 +2907,7 @@
               "The Duck-Rabbit Wee Heavy Scotch-Style Ale"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -2950,7 +2951,7 @@
               }
             },
             "examples": [
-              " Burton Bridge Thomas Sykes Old Ale",
+              "Burton Bridge Thomas Sykes Old Ale",
               "Coniston No. 9 Barley Wine",
               "Fuller’s Golden Pride",
               "Hogs Back A over T",
@@ -2958,7 +2959,7 @@
               "Robinson’s Old Tom"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "amber-color",
               "top-fermented",
               "british-isles",
@@ -3009,7 +3010,7 @@
               }
             },
             "examples": [
-              " Firestone Walker 805",
+              "Firestone Walker 805",
               "Kona Big Wave Golden Ale",
               "Real Ale Firemans #4 Blonde Ale",
               "Russian River Aud Blonde",
@@ -3017,7 +3018,7 @@
               "Widmer Citra Summer Blonde Brew"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "any-fermentation",
               "north-america",
@@ -3061,7 +3062,7 @@
               }
             },
             "examples": [
-              " Deschutes Mirror Pond Pale Ale",
+              "Deschutes Mirror Pond Pale Ale",
               "Half Acre Daisy Cutter Pale Ale",
               "Great Lakes Burning River",
               "La Cumbre Acclimated APA",
@@ -3069,7 +3070,7 @@
               "Stone Pale Ale 2.0"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "north-america",
@@ -3121,7 +3122,7 @@
               }
             },
             "examples": [
-              " Anderson Valley Boont Amber Ale",
+              "Anderson Valley Boont Amber Ale",
               "Bell’s Amber Ale",
               "Full Sail Amber",
               "North Coast Red Seal Ale",
@@ -3129,7 +3130,7 @@
               "Tröegs Hopback Amber Ale"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "north-america",
@@ -3174,11 +3175,11 @@
               }
             },
             "examples": [
-              " Anchor Steam",
+              "Anchor Steam",
               "Steamworks Steam Engine Lager"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "bottom-fermented",
               "north-america",
@@ -3223,7 +3224,7 @@
               }
             },
             "examples": [
-              " Avery Ellie’s Brown Ale",
+              "Avery Ellie’s Brown Ale",
               "Big Sky Moose Drool Brown Ale",
               "Brooklyn Brown Ale",
               "Bell’s Best Brown",
@@ -3231,7 +3232,7 @@
               "Telluride Face Down Brown"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "top-fermented",
               "north-america",
@@ -3283,7 +3284,7 @@
               }
             },
             "examples": [
-              " Anchor Porter",
+              "Anchor Porter",
               "Bell’s Porter",
               "Deschutes Black Butte Porter",
               "Great Lakes Edmund Fitzgerald Porter",
@@ -3291,7 +3292,7 @@
               "Smuttynose Robust Porter"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "top-fermented",
               "north-america",
@@ -3337,14 +3338,14 @@
               }
             },
             "examples": [
-              " Avery Out of Bounds Stout",
+              "Avery Out of Bounds Stout",
               "Bell’s Kalamazoo Stout",
               "Deschutes Obsidian Stout",
               "Sierra Nevada Stout",
               "Trillium Secret Stairs"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "dark-color",
               "top-fermented",
               "north-america",
@@ -3390,7 +3391,7 @@
               }
             },
             "examples": [
-              " American – Bell’s Expedition Stout",
+              "American – Bell’s Expedition Stout",
               "Great Divide Yeti Imperial Stout",
               "North Coast Old Rasputin Imperial Stout",
               "Oskar Blues Ten Fidy",
@@ -3401,7 +3402,7 @@
               "Thornbridge Saint Petersburg"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -3456,7 +3457,7 @@
               }
             },
             "examples": [
-              " Bell’s Two-Hearted Ale",
+              "Bell’s Two-Hearted Ale",
               "Cigar City Jai Alai",
               "Fat Heads Head Hunter IPA",
               "Firestone Walker Union Jack",
@@ -3464,7 +3465,7 @@
               "Russian River Blind Pig IPA"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "north-america",
@@ -3529,13 +3530,13 @@
               }
             },
             "examples": [
-              " Brewery Vivant Triomphe",
+              "Brewery Vivant Triomphe",
               "Green Flash Le Freak",
               "Houblon Chouffe",
               "Urthel Hop It"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "north-america",
@@ -3582,12 +3583,12 @@
               }
             },
             "examples": [
-              " 21st Amendment Back in Black",
+              "21st Amendment Back in Black",
               "Duck-Rabbit Hoppy Bunny ABA",
               "Stone Sublimely Self-Righteous Black IPA"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "dark-color",
               "top-fermented",
               "north-america",
@@ -3634,12 +3635,12 @@
               }
             },
             "examples": [
-              " Dogfish Head Indian Brown Ale",
+              "Dogfish Head Indian Brown Ale",
               "Harpoon Brown IPA",
               "Russian River Janet’s Brown Ale"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "dark-color",
               "top-fermented",
               "north-america",
@@ -3686,13 +3687,13 @@
               }
             },
             "examples": [
-              " Avery Hog Heaven",
+              "Avery Hog Heaven",
               "Cigar City Tocobaga Red IPA",
               "Modern Times Blazing World",
               "Tröegs Nugget Nectar"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "north-america",
@@ -3739,11 +3740,11 @@
               }
             },
             "examples": [
-              " Founders Red’s Rye IPA",
+              "Founders Red’s Rye IPA",
               "Sierra Nevada Ruthless Rye"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "north-america",
@@ -3790,11 +3791,11 @@
               }
             },
             "examples": [
-              " Lagunitas A Little Sumpin' Sumpin' Ale",
+              "Lagunitas A Little Sumpin' Sumpin' Ale",
               "New Belgium Accumulation"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "north-america",
@@ -3842,12 +3843,12 @@
               }
             },
             "examples": [
-              " Drake’s Brightside Extra Brut IPA",
+              "Drake’s Brightside Extra Brut IPA",
               "Fair State Brewing Co-Op The Brut Squad",
               "Ommegang Brut IPA"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "north-america",
@@ -3893,7 +3894,7 @@
               }
             },
             "examples": [
-              " Belching Beaver Hazers Gonna Haze",
+              "Belching Beaver Hazers Gonna Haze",
               "Hill Farmstead Susan",
               "Other Half Green Diamonds Double IPA",
               "Pinthouse Electric Jellyfish",
@@ -3902,7 +3903,7 @@
               "WeldWerks Juicy Bits"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "north-america",
@@ -3954,7 +3955,7 @@
               }
             },
             "examples": [
-              " Columbus Brewing Bohdi",
+              "Columbus Brewing Bohdi",
               "Fat Head’s Hop Juju",
               "Port Brewing Hop-15",
               "Russian River Pliny the Elder",
@@ -3962,7 +3963,7 @@
               "Wicked Weed Freak of Nature"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "pale-color",
               "top-fermented",
               "north-america",
@@ -4007,14 +4008,14 @@
               }
             },
             "examples": [
-              " Arrogant Bastard Ale",
+              "Arrogant Bastard Ale",
               "Fat Head’s Bone Head",
               "Great Lakes Nosferatu",
               "Oskar Blues G’Knight",
               "Port Brewing Shark Attack Double Red Ale"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "north-america",
@@ -4059,14 +4060,14 @@
               }
             },
             "examples": [
-              " Anchor Old Foghorn",
+              "Anchor Old Foghorn",
               "Bell’s Third Coast Old Ale",
               "East End Gratitude",
               "Hair of the Dog Doggie Claws",
               "Sierra Nevada Bigfoot"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "amber-color",
               "top-fermented",
               "north-america",
@@ -4111,13 +4112,13 @@
               }
             },
             "examples": [
-              " The Bruery White Oak",
+              "The Bruery White Oak",
               "Castelain Winter Ale",
               "Perennial Heart of Gold",
               "Two Brothers Bare Tree"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "amber-color",
               "top-fermented",
               "north-america",
@@ -4170,7 +4171,7 @@
               }
             },
             "examples": [
-              " Bayerischer Bahnhof Berliner Style Weisse",
+              "Bayerischer Bahnhof Berliner Style Weisse",
               "Berliner Berg Berliner Weisse",
               "Brauerei Meierei Weiße",
               "Lemke Berlin Budike Weisse",
@@ -4178,7 +4179,7 @@
               "Urban Chestnut Ku’damm"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "pale-color",
               "top-fermented",
               "central-europe",
@@ -4222,7 +4223,7 @@
               }
             },
             "examples": [
-              " Cuvée des Jacobins",
+              "Cuvée des Jacobins",
               "Duchesse de Bourgogne",
               "New Belgium La Folie",
               "Rodenbach Classic",
@@ -4230,7 +4231,7 @@
               "Vichtenaar Flemish Ale "
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "western-europe",
@@ -4275,7 +4276,7 @@
               }
             },
             "examples": [
-              " Ichtegem Oud Bruin",
+              "Ichtegem Oud Bruin",
               "Liefmans Goudenband",
               "Liefmans Oud Bruin",
               "Petrus Roodbruin",
@@ -4283,7 +4284,7 @@
               "VanderGhinste Roodbruin"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "top-fermented",
               "western-europe",
@@ -4327,7 +4328,7 @@
               }
             },
             "examples": [
-              " Cantillon Grand Cru Bruocsella. In the Brussels area",
+              "Cantillon Grand Cru Bruocsella. In the Brussels area",
               "many specialty cafés have draught lambic from Boon",
               "De Cam",
               "Cantillon",
@@ -4337,7 +4338,7 @@
               "Girardin and others."
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "wild-fermented",
               "western-europe",
@@ -4381,7 +4382,7 @@
               }
             },
             "examples": [
-              " 3 Fonteinen Oud Gueuze",
+              "3 Fonteinen Oud Gueuze",
               "Cantillon Classic Gueuze 100% Lambic",
               "Girardin Gueuze 1882 (Black label)",
               "Hanssens Oude Gueuze",
@@ -4389,7 +4390,7 @@
               "Oude Gueuze Boon"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "wild-fermented",
               "western-europe",
@@ -4435,7 +4436,7 @@
               }
             },
             "examples": [
-              " 3 Fonteinen Schaerbeekse Kriek",
+              "3 Fonteinen Schaerbeekse Kriek",
               "Cantillon Fou’ Foune",
               "Cantillon Lou Pepe Framboise",
               "Cantillon Vigneronne",
@@ -4443,7 +4444,7 @@
               "Oude Kriek Boon"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "wild-fermented",
               "western-europe",
@@ -4488,13 +4489,13 @@
               }
             },
             "examples": [
-              " Anderson Valley Gose",
+              "Anderson Valley Gose",
               "Bayerisch Bahnhof Leipziger Gose",
               "Original Ritterguts Gose",
               "Westbrook Gose"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "central-europe",
@@ -4546,7 +4547,7 @@
               }
             },
             "examples": [
-              " Allagash White",
+              "Allagash White",
               "Blanche de Bruxelles",
               "Celis White",
               "Hoegaarden White",
@@ -4554,7 +4555,7 @@
               "St. Bernardus Wit"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "western-europe",
@@ -4598,13 +4599,13 @@
               }
             },
             "examples": [
-              " De Koninck Bolleke",
+              "De Koninck Bolleke",
               "De Ryck Special",
               "Palm",
               "Palm Dobble"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "western-europe",
@@ -4650,7 +4651,7 @@
               }
             },
             "examples": [
-              " Ch’Ti Blonde",
+              "Ch’Ti Blonde",
               "Jenlain Ambrée",
               "La Choulette Brune",
               "Russian River Perdition",
@@ -4658,7 +4659,7 @@
               "Two Brothers Domaine Dupage"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "amber-color",
               "any-fermentation",
@@ -4711,7 +4712,7 @@
               }
             },
             "examples": [
-              " Affligem Blond",
+              "Affligem Blond",
               "Corsendonk Blond",
               "Grimbergen Blonde",
               "La Trappe Blond",
@@ -4719,7 +4720,7 @@
               "Val-Dieu Blonde"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "western-europe",
@@ -4756,30 +4757,30 @@
               "srm": {
                 "pale": {
                   "min": "5",
-                  "max": "14"  
+                  "max": "14" 
                 },
                 "dark": {
                   "min": "15",
-                  "max": "22"  
+                  "max": "22" 
                 }
               },
               "abv": {
                 "table": {
                   "min": "3.5",
-                  "max": "5.0"  
+                  "max": "5.0" 
                 },
                 "standard": {
                   "min": "5.0",
-                  "max": "7.0"  
+                  "max": "7.0" 
                 },
                 "super": {
                   "min": "7.0",
-                  "max": "9.5"  
+                  "max": "9.5" 
                 }
               }
             },
             "examples": [
-              " Ellezelloise Saison 2000",
+              "Ellezelloise Saison 2000",
               "Lefebvre Saison 1900",
               "Saison Dupont",
               "Saison de Pipaix",
@@ -4787,7 +4788,7 @@
               "Boulevard Tank 7"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "western-europe",
@@ -4830,7 +4831,7 @@
               }
             },
             "examples": [
-              " Brigand",
+              "Brigand",
               "Delirium Tremens",
               "Duvel",
               "Judas",
@@ -4838,7 +4839,7 @@
               "Russian River Damnation"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "pale-color",
               "top-fermented",
               "western-europe",
@@ -4888,7 +4889,7 @@
               }
             },
             "examples": [
-              " Chimay Gold",
+              "Chimay Gold",
               "La Trappe Puur",
               "Russian River Redemption",
               "St. Bernardus Extra 4",
@@ -4896,7 +4897,7 @@
               "Westvleteren Blond"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "western-europe",
@@ -4940,7 +4941,7 @@
               }
             },
             "examples": [
-              " Chimay Red",
+              "Chimay Red",
               "Corsendonk Bruin",
               "La Trappe Dubbel",
               "Rochefort 6",
@@ -4948,7 +4949,7 @@
               "Westmalle Dubbel"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "western-europe",
@@ -4991,7 +4992,7 @@
               }
             },
             "examples": [
-              " Chimay Tripel",
+              "Chimay Tripel",
               "La Rulles Tripel",
               "La Trappe Tripel",
               "St. Bernardus Tripel",
@@ -4999,7 +5000,7 @@
               "Westmalle Tripel"
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "pale-color",
               "top-fermented",
               "western-europe",
@@ -5042,7 +5043,7 @@
               }
             },
             "examples": [
-              " Achel Extra Bruin",
+              "Achel Extra Bruin",
               "Boulevard The Sixth Glass",
               "Chimay Blue",
               "Rochefort 10",
@@ -5050,7 +5051,7 @@
               "Westvleteren 12"
             ],
             "tags": [
-              " very-high-strength",
+              "very-high-strength",
               "amber-color",
               "top-fermented",
               "western-europe",
@@ -5083,14 +5084,14 @@
               "notes": "Same as base style."
             },
             "examples": [
-              " Märzen – Faust Kräusen Naturtrüb",
+              "Märzen – Faust Kräusen Naturtrüb",
               "Mahrs Bräu aU Ungespundet Kellerbier; Dunkel – Engel Kellerbier Dunkel",
               "Paulaner Ur-Dunkel Naturtrüb; Helles – ABK Kellerbier Naturtrüb",
               "Löwenbräu 1747 Original; Pils – Giesinger Feines Pilschen",
               "Ketterer Zwickel-Pils "
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "bottom-fermented",
               "central-europe",
               "traditional-style",
@@ -5133,10 +5134,10 @@
               }
             },
             "examples": [
-              " Apocalypse Brew Works 1912"
+              "Apocalypse Brew Works 1912"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "north-america",
@@ -5180,11 +5181,11 @@
               }
             },
             "examples": [
-              " Live Oak Lichtenhainer",
+              "Live Oak Lichtenhainer",
               "Wöllnitzer Weissbier"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "top-fermented",
               "central-europe",
@@ -5230,11 +5231,11 @@
               }
             },
             "examples": [
-              " Harveys Bloomsbury Brown Ale",
+              "Harveys Bloomsbury Brown Ale",
               "Mann's Brown Ale"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "dark-color",
               "top-fermented",
               "british-isles",
@@ -5280,10 +5281,10 @@
               }
             },
             "examples": [
-              " Live Oak Grodziskie"
+              "Live Oak Grodziskie"
             ],
             "tags": [
-              " session-strength",
+              "session-strength",
               "pale-color",
               "top-fermented",
               "central-europe",
@@ -5329,14 +5330,14 @@
               }
             },
             "examples": [
-              " Capital Supper Club",
+              "Capital Supper Club",
               "Coors Batch 19",
               "Little Harpeth Chicken Scratch",
               "Schell Deer Brand",
               "Urban Chestnut Forest Park Pilsner"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "pale-color",
               "bottom-fermented",
               "lagered",
@@ -5383,11 +5384,11 @@
               }
             },
             "examples": [
-              " Stegmaier Porter",
+              "Stegmaier Porter",
               "Yuengling Porter"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "dark-color",
               "any-fermentation",
               "north-america",
@@ -5432,10 +5433,10 @@
               }
             },
             "examples": [
-              " Thurn und Taxis Roggen"
+              "Thurn und Taxis Roggen"
             ],
             "tags": [
-              " standard-strength",
+              "standard-strength",
               "amber-color",
               "top-fermented",
               "central-europe",
@@ -5479,10 +5480,10 @@
               }
             },
             "examples": [
-              " Now made year-round by several breweries in Finland."
+              "Now made year-round by several breweries in Finland."
             ],
             "tags": [
-              " high-strength",
+              "high-strength",
               "amber-color",
               "top-fermented",
               "central-europe",
@@ -5514,7 +5515,7 @@
               "notes": "Variable by base style."
             },
             "examples": [
-              " Boulevard Saison Brett",
+              "Boulevard Saison Brett",
               "Hill Farmstead Arthur",
               "Logsdon Seizoen Bretta",
               "Lost Abbey Brett Devo",
@@ -5522,7 +5523,7 @@
               "The Bruery Saison Rue"
             ],
             "tags": [
-              " wild-fermentation",
+              "wild-fermentation",
               "north-america",
               "craft-style",
               "specialty-beer"
@@ -5545,7 +5546,7 @@
               "notes": "Variable by base style."
             },
             "examples": [
-              " Boulevard Love Child",
+              "Boulevard Love Child",
               "Jester King Le Petit Prince",
               "Jolly Pumpkin Oro de Calabaza",
               "Lost Abbey Ghosts in the Forest",
@@ -5553,7 +5554,7 @@
               "Russian River Temptation"
             ],
             "tags": [
-              " wild-fermentation",
+              "wild-fermentation",
               "north-america",
               "craft-style",
               "specialty-beer",
@@ -5577,7 +5578,7 @@
               "notes": "Variable by base style."
             },
             "examples": [
-              " Cascade Bourbonic Plague",
+              "Cascade Bourbonic Plague",
               "Jester King Atrial Rubicite",
               "New Belgium Dominga Mimosa Sour",
               "New Glarus Wisconsin Belgian Red",
@@ -5585,7 +5586,7 @@
               "The Lost Abbey Cuvee de Tomme"
             ],
             "tags": [
-              " wild-fermentation",
+              "wild-fermentation",
               "north-america",
               "craft-style",
               "specialty-beer",
@@ -5628,11 +5629,11 @@
               }
             },
             "examples": [
-              " Rarely found",
+              "Rarely found",
               "as this style is typically the base for other Specialty-Type Beers."
             ],
             "tags": [
-              " pale-color",
+              "pale-color",
               "top-fermented",
               "sour"
             ]
@@ -5658,7 +5659,7 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer, but the fruit will often be reflected in the color."
             },
             "examples": [
-              " 21st Amendment Watermelon Wheat",
+              "21st Amendment Watermelon Wheat",
               "Anderson Valley Blood Orange Gose",
               "Avery Liliko’i Kepolo",
               "Ballast Point Grapefruit Sculpin",
@@ -5666,7 +5667,7 @@
               "Founders Rübæus"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "fruit"
             ]
           },
@@ -5684,7 +5685,7 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer, but the fruit will often be reflected in the color."
             },
             "examples": [
-              " Cigar City Margarita Gose",
+              "Cigar City Margarita Gose",
               "Firestone Walker Chocolate Cherry Stout",
               "Golden Road Spicy Mango Cart",
               "Kona Island Colada Cream Ale",
@@ -5692,7 +5693,7 @@
               "Sun King Orange Vanilla Sunlight"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "fruit",
               "spice"
             ]
@@ -5711,13 +5712,13 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer, but the fruit will often be reflected in the color."
             },
             "examples": [
-              " The Bruery Goses are Red",
+              "The Bruery Goses are Red",
               "New Planet Raspberry Ale",
               "Tired Hands Strawberry Milkshake IPA",
               "WeldWerks Piña Colada IPA"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "fruit"
             ]
           },
@@ -5757,7 +5758,7 @@
               }
             },
             "examples": [
-              " Montegioco Open Mind",
+              "Montegioco Open Mind",
               "Birrificio del Forte Il Tralcio",
               "Luppolajo Mons Rubus",
               "Firestone Walker Feral Vinifera",
@@ -5765,7 +5766,7 @@
               "4 Árvores Abbondanza "
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "fruit"
             ]
           }
@@ -5790,7 +5791,7 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer."
             },
             "examples": [
-              " Alesmith Speedway Stout",
+              "Alesmith Speedway Stout",
               "Elysian Avatar Jasmine IPA",
               "Founders Breakfast Stout",
               "Rogue Yellow Snow Pilsner",
@@ -5798,7 +5799,7 @@
               "Young’s Double Chocolate Stout"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "spice"
             ]
           },
@@ -5817,7 +5818,7 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer. ABV is generally above 5%, and most examples are somewhat amber-copper in color."
             },
             "examples": [
-              " Dogfish Head Punkin Ale",
+              "Dogfish Head Punkin Ale",
               "Elysian Punkuccino",
               "Rogue Pumpkin Patch Ale",
               "Schlafly Pumpkin Ale",
@@ -5825,7 +5826,7 @@
               "Weyerbacher Imperial Pumpkin"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "spice"
             ]
           },
@@ -5845,7 +5846,7 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer. ABV is generally above 6%, and most examples are somewhat dark in color."
             },
             "examples": [
-              " Anchor Christmas Ale",
+              "Anchor Christmas Ale",
               "Great Lakes Christmas Ale",
               "Harpoon Winter Warmer",
               "Rogue Santa’s Private Reserve",
@@ -5853,7 +5854,7 @@
               "Troeg’s The Mad Elf"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "spice"
             ]
           },
@@ -5871,11 +5872,11 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer."
             },
             "examples": [
-              " New Belgium Honey Orange Tripel",
+              "New Belgium Honey Orange Tripel",
               "Westbrook It’s Tiki Time"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "spice"
             ]
           }
@@ -5900,7 +5901,7 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer."
             },
             "examples": [
-              " Blue/Point Rastafarye Ale",
+              "Blue/Point Rastafarye Ale",
               "Green’s India Pale Ale",
               "Lakefront New Grist",
               "New Planet Pale Ale",
@@ -5908,7 +5909,7 @@
               "Voodoo Swimming Jeans"
             ],
             "tags": [
-              " specialty-beer"
+              "specialty-beer"
             ]
           },
           {
@@ -5925,7 +5926,7 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the underlying base beer."
             },
             "examples": [
-              " Bell’s Hopslam",
+              "Bell’s Hopslam",
               "Cervejaria Colorado Appia",
               "Fifth Hammer Break of Jawn",
               "Groundswell Piloncillo",
@@ -5933,7 +5934,7 @@
               "New Glarus Cabin Fever"
             ],
             "tags": [
-              " specialty-beer"
+              "specialty-beer"
             ]
           }
         ]
@@ -5959,7 +5960,7 @@
               "notes": "Varies with the base beer style."
             },
             "examples": [
-              " Alaskan Smoked Porter",
+              "Alaskan Smoked Porter",
               "Schlenkerla Oak Smoke Doppelbock",
               "Schlenkerla Rauchbier Weizen",
               "Schlenkerla Rauchbier Ur-Bock",
@@ -5967,7 +5968,7 @@
               "Spezial Rauchbier Lagerbier"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "smoke"
             ]
           },
@@ -5986,11 +5987,11 @@
               "notes": "Varies with the base beer style."
             },
             "examples": [
-              " Fat Head’s Up in Smoke",
+              "Fat Head’s Up in Smoke",
               "Ommegang Bourbon Barrel Vanilla Smoked Porter"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "smoke"
             ]
           }
@@ -6031,7 +6032,7 @@
               }
             },
             "examples": [
-              " Bush Prestige",
+              "Bush Prestige",
               "Cigar City Spanish Cedar Jai Alai",
               "Firestone Walker Double Barrel Ale",
               "Midnight Sun Arctic Devil",
@@ -6039,7 +6040,7 @@
               "Samuel Smith Yorkshire Stingo"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "wood"
             ]
           },
@@ -6073,7 +6074,7 @@
               }
             },
             "examples": [
-              " AleSmith Barrel-Aged Old Numbskull",
+              "AleSmith Barrel-Aged Old Numbskull",
               "Founders Kentucky Breakfast Stout",
               "Firestone Walker Parabola",
               "Goose Island Bourbon County Stout",
@@ -6081,7 +6082,7 @@
               "The Lost Abbey Angel’s Share Ale"
             ],
             "tags": [
-              " specialty-beer",
+              "specialty-beer",
               "wood"
             ]
           }
@@ -6106,11 +6107,11 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the declared beer."
             },
             "examples": [
-              " Orval",
+              "Orval",
               "La Chouffe"
             ],
             "tags": [
-              " specialty-beer"
+              "specialty-beer"
             ]
           },
           {
@@ -6127,13 +6128,13 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the declared beer."
             },
             "examples": [
-              " Birrificio Italiano Tipopils",
+              "Birrificio Italiano Tipopils",
               "Firestone Walker Pivo Pils",
               "Jack’s Abby Hoponius Union",
               "Ommegang Helles Superior"
             ],
             "tags": [
-              " specialty-beer"
+              "specialty-beer"
             ]
           },
           {
@@ -6150,10 +6151,10 @@
               "notes": "OG, FG, IBUs, SRM, and ABV will vary depending on the declared beer."
             },
             "examples": [
-              " None"
+              "None"
             ],
             "tags": [
-              " specialty-beer"
+              "specialty-beer"
             ]
           }
         ]
@@ -6230,7 +6231,7 @@
               }
             },
             "examples": [
-              " Antares Ipa Argenta",
+              "Antares Ipa Argenta",
               "Kerze Ipa Argenta."
             ]
           },
@@ -6268,7 +6269,7 @@
               }
             },
             "examples": [
-              " Montegioco Open Mind",
+              "Montegioco Open Mind",
               "Birrificio Barley BB5-10",
               "Birrificio del Forte Il Tralcio",
               "Viess Beer al mosto di gewurtztraminer",
@@ -6277,7 +6278,7 @@
               "Luppolajo Mons Rubus"
             ],
             "tags": [
-              " Specialty-beer",
+              "Specialty-beer",
               "Fruit"
             ]
           },
@@ -6316,7 +6317,7 @@
               }
             },
             "examples": [
-              " Armada Daenerys",
+              "Armada Daenerys",
               "Blumenau Catharina Sour Pêssego",
               "Istepô Goiabêra",
               "Itajahy Catharina Araçá Sour",
@@ -6324,7 +6325,7 @@
               "UNIKA Tangerina Clemenules"
             ],
             "tags": [
-              " craft-style",
+              "craft-style",
               "fruit",
               "sour",
               "specialty-beer"
@@ -6365,7 +6366,7 @@
               }
             },
             "examples": [
-              " Croucher New Zealand Pilsner",
+              "Croucher New Zealand Pilsner",
               "Emerson’s Pilsner",
               "Liberty Halo Pilsner",
               "Panhead Port Road Pilsner",
@@ -6373,7 +6374,7 @@
               "Tuatara Mot Eureka"
             ],
             "tags": [
-              " bitter",
+              "bitter",
               "pale-color",
               "standard-strength",
               "bottom-fermented",
