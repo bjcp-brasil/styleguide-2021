@@ -1,6 +1,6 @@
-# BJCP 2021 Parsed Styleguide
+# BJCP 2021 Parsed Style Guidelines
 
-This repository was created mainly to distribute the parsed version of [2021 BJCP Style Guideline](https://www.bjcp.org/bjcp-style-guidelines/) in JSON, XML and YAML formats.
+This repository was created mainly to distribute the parsed version of [2021 BJCP Style Guidelines](https://www.bjcp.org/bjcp-style-guidelines/) in JSON, XML and YAML formats.
 
 ## Contributing
 
@@ -13,4 +13,4 @@ If you found an issue on the files, please do the following:
 
 ## License
 
-Everything about the 2021 Style Guideline is owned by [BJCP](http://bjcp.org).
+Everything about the 2021 Style Guidelines is owned by [BJCP](http://bjcp.org).
